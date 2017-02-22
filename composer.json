@@ -1,5 +1,5 @@
 {
-  "name": "vladimir-yuldashev/laravel-queue-rabbitmq",
+  "name": "stasik/laravel-queue-rabbitmq",
   "version": "5.3",
   "description": "RabbitMQ driver for Laravel Queue",
   "license": "MIT",
